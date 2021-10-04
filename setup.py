@@ -66,4 +66,6 @@ setup(
     extras_require={
         'develop': tests_require + ["sphinx", "sphinx_rtd_theme"]
     },
+
+    package_dir={'', 'iprice'}
 )
