@@ -67,5 +67,5 @@ setup(
         'develop': tests_require + ["sphinx", "sphinx_rtd_theme"]
     },
 
-    # package_dir={'', 'iprice'}
+    package_dir={'', 'iprice'}
 )
